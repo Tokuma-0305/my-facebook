@@ -1,6 +1,6 @@
-# flutter_app1
+# my_facebook
 
-A new Flutter application.
+FaceBook UI Sample
 
 ## Getting Started
 
